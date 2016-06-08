@@ -1,4 +1,0 @@
-- hosts: rpcap
-  sudo: yes 
-  roles:
-  - {"role": rpcap_forwarder, "vars_file": vars.yml}
